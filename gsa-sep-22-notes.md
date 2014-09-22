@@ -15,4 +15,8 @@
   - How to solicit input but make it simple
   - Howto make edit link?
     - https://github.com/carlthewebmaster/API-All-the-X/blob/gh-pages/_includes/prose_edit_url.html
+- USA.gov social media registry
+- http://usg-website-templates.github.io/
+- 2nd Thursday - open source co-working.
+- OMB 10-23
   
