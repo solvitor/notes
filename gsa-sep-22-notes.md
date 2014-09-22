@@ -9,3 +9,10 @@
   - Demo / Examples
   - GovCode.org
 - Other GSA user in room - added to organization right in this meeting.
+- https://github.com/18f/github-demos
+- http://project-open-data.github.io/ - discuss link to Issues for soliciting input
+- List of github-hosted federal microsites
+  - How to solicit input but make it simple
+  - Howto make edit link?
+  - 
+  
